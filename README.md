@@ -12,6 +12,6 @@ Projeto Integrador Extensionista ADS.
 
 1. Clone o repositório e entre na pasta:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/nutrividas.git](https://github.com/SEU-USUARIO/nutrividas.git)
+   git clone [https://github.com/gracianedossantos18-creator/nutrividas.git](https://github.com/gracianedossantos18-creator/nutrividas.git)
    cd nutrividas
    ```
